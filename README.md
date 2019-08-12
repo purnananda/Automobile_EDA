@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Help URL:
 1. https://www.kaggle.com/toramky/eda-for-automobile-dataset
 2. https://www.kaggle.com/rkamath1/exploratory-analysis-tests-regression/notebook
+3. Dataset source: https://archive.ics.uci.edu/ml/datasets/automobile
+4. Github Source: https://github.com/justinpolackal/eda-automobiles
