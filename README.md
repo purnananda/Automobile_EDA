@@ -1,6 +1,7 @@
 # Automobile - Exploratory Data Analysis
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
+This project is coded through python, pandas, seaborn, matplotlib, etc.
+![EDA_Automobile_Banner.jpg](Images/EDA_Automobile_Banner.jpg)<br><br>
 
 ## Help URL:
 1. https://www.kaggle.com/toramky/eda-for-automobile-dataset
